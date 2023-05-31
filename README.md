@@ -5,3 +5,6 @@ Comiple src/welcome.cpp file
 [CLI]    
 -NoteBook-14:~/workstation/dsaWithCPlusPlus$ g++ src/welcome.cpp -o out/welcome
 -NoteBook-14:~/workstation/dsaWithCPlusPlus$ ./out/welcome
+
+[remove All Executable Files]
+- rm ./out/*
